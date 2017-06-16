@@ -1,0 +1,14 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Created while learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Sumit Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
+}
